@@ -26,21 +26,21 @@ The dashboard uses SQL to seamlessly fetch data from the database. By leveraging
 DAX (Data Analysis Expressions) is employed for robust data processing. New columns and calculations are added to track metrics and trends on a weekly basis. This enables a comprehensive view of credit card performance, offering actionable insights into customer behavior.
 
 <h1 style="font-size:10px;">📊 Key Insights</h1>
-Total Revenue Generated: $55M.
-Interest Earned: $8M.
-Total Transaction Amount: $46M.
-Revenue by Gender: Male customers contributed $31M; female customers brought in $26M.
-Income Group Insights: Males in low-income groups showed lower credit card usage, but usage significantly increased in higher-income groups.
-Top Credit Cards: Blue and Silver cards accounted for 93% of all transactions.
-Top Performing States: Texas, New York, and California contributed 68% of the total revenue.
-Card Activation Rate: 57.47%.
+Total Revenue Generated: $55M.<br>
+Interest Earned: $8M.<br>
+Total Transaction Amount: $46M.<br>
+Revenue by Gender: Male customers contributed $31M; female customers brought in $26M.<br>
+Income Group Insights: Males in low-income groups showed lower credit card usage, but usage significantly increased in higher-income groups.<br>
+Top Credit Cards: Blue and Silver cards accounted for 93% of all transactions.<br>
+Top Performing States: Texas, New York, and California contributed 68% of the total revenue.<br>
+Card Activation Rate: 57.47%.<br>
 Delinquency Rate: 6.07%.
 
 <h1 style="font-size:10px;">📅 Weekly Metrics</h1>
-Several key metrics are tracked weekly to give a granular understanding of performance over time:
-Week-over-Week Revenue (WoW)
-Customer Satisfaction Score
-Transaction Volume and Revenue Growth
+Several key metrics are tracked weekly to give a granular understanding of performance over time:<br>
+Week-over-Week Revenue (WoW)<br>
+Customer Satisfaction Score<br>
+Transaction Volume and Revenue Growth<br>
 
 <h1 style="font-size:10px;">🎯 Conclusion</h1>
 This credit card transaction and customer analysis revealed important trends in customer behavior, allowing for more targeted strategies to boost revenue and improve customer retention. By utilizing these data-driven insights, businesses can make more informed decisions to meet customer needs effectively.
