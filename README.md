@@ -1,11 +1,11 @@
 <!-- Using HTML to specify text size -->
-<h1 style="font-size:20px;">🚀 Credit Card Transaction & Customer Analysis Using Power BI, SQL, and Excel 💳  (Size 20)</h1>
+<h1 style="font-size:20px;">🚀 Credit Card Transaction & Customer Analysis Using Power BI, SQL, and Excel 💳 </h1>
 
 
-🔎 Project Overview
+<h1 style="font-size:20px;">🔎 Project Overview</h1>
 This project analyzes credit card usage patterns using Power BI, SQL, and Excel, with a focus on key customer metrics such as age, income, education level, and more. The objective is to uncover valuable insights that help businesses better understand their customers and make data-driven decisions.
 
-🎯 Problem Statement
+<h1 style="font-size:20px;"> 🎯 Problem Statement</h1>
 The company aimed to optimize its focus areas by gaining deeper insights into credit card usage trends across various customer segments. This analysis provides a data-driven approach that informs business decisions and identifies areas needing the most attention for improvement.
 
 📊 Dashboard Features
